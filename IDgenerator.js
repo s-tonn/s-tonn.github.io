@@ -2,7 +2,7 @@
 const NO_CB_FAKTORS = 32;
 
 // EX_CB_FACTORS: permutation modulos already finished (Integer array of values 0 up to (NOT INCLUSIVE) NO_CB_FAKTORS)
-const EX_CB_FAKTORS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16];
+const EX_CB_FAKTORS = [1, 3, 6, 12, 19, 20, 29];
 // [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];
 
 // NOISE: if you want the subject IDs to have a high range, change this parameter
